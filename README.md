@@ -1,5 +1,6 @@
 //	Chisel Project Template
 //	=======================
+//
 //	
 //	You've done the [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp), and now you
 //	are ready to start your own Chisel project.  The following procedure should get you started
